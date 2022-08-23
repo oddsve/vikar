@@ -1,0 +1,17 @@
+
+.cb-button label {
+    border: solid;
+    margin: 2px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.hidden-cb {
+    display: none;
+}
+
+.hidden-cb:checked + label {
+    background-color: black;
+    color: white;
+    font-style: normal;
+  } 

@@ -1,0 +1,118 @@
+{
+    "persons": {
+        "1": {
+            "id": 1,
+            "name": "Vigis",
+            "classes": {
+                "1": [
+                    {
+                        "classNr": "1",
+                        "subject": "Engelsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "3",
+                        "subject": "Norsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "4",
+                        "subject": "Matte",
+                        "grade": "1."
+                    }
+                ],
+                "2": [
+                    {
+                        "classNr": "1",
+                        "subject": "Norsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "3",
+                        "subject": "Norsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "4",
+                        "subject": "Norsk",
+                        "grade": "1."
+                    }
+                ],
+                "3": [
+                    {
+                        "classNr": "1",
+                        "subject": "Gym",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "3",
+                        "subject": "Norsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "4",
+                        "subject": "Gym",
+                        "grade": "1."
+                    }
+                ],
+                "4": [
+                    {
+                        "classNr": "1",
+                        "subject": "Engelsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "3",
+                        "subject": "Norsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "4",
+                        "subject": "Matte",
+                        "grade": "1."
+                    }
+                ],
+                "5": [
+                    {
+                        "classNr": "1",
+                        "subject": "Engelsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "3",
+                        "subject": "Norsk",
+                        "grade": "6."
+                    },
+                    {
+                        "classNr": "4",
+                        "subject": "Matte",
+                        "grade": "1."
+                    }
+                ]
+            }
+        },
+        "2": {
+            "id": 2,
+            "name": "Rebekka",
+            "classes": {
+                "1": [
+                    {
+                        "classNr": "1",
+                        "subject": "Samfunnsfag",
+                        "grade": "3."
+                    },
+                    {
+                        "classNr": "32",
+                        "subject": "Musikk",
+                        "grade": "3."
+                    },
+                    {
+                        "classNr": "3",
+                        "subject": "O-fag",
+                        "grade": "3."
+                    }
+                ]
+            }
+        }
+    }
+}
